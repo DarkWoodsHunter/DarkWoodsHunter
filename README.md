@@ -1,6 +1,6 @@
 ### <h1>Saludos! Soy Ezequiel Correcher, tambien conocido como DarkWoodHunter</h1>
 <br/>
-<h2>Quien soy?<h2/>
+<h2>Quien soy?</h2>
 <p>Soy programador web Full Stack y con experiencia en el desarrollo de VideoJuegos.
 
 Hace años que me interese en la computacion, las matematicas y la logica. Por lo que era inevitable my introduccion al mundo de la programacion. Disfruto de los desafios que presenta y de aprender nuevas e inovativas formas de solucionar tales problemas, por lo que siempre estoy aprendiendo algo nuevo.</p>
